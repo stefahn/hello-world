@@ -74,8 +74,8 @@ Geht das auch so #sub-heading
 
 [Oder so](#sub-heading)
 
-[Mit Leerzeichen und #](Another deeper heading)
+[Mit Leerzeichen und #](another deeper heading)
 
-[Mit Leerzeichen](#Another deeper heading)
+[Mit Leerzeichen](#another deeper heading)
 
-[Mit Strichen](#Another-deeper-heading)
+[Mit Strichen](#another-deeper-heading)
