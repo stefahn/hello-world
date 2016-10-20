@@ -67,3 +67,9 @@ Ein [beschrifteter link](http://example.com).
 Geht [da auch ein Leerzeichen dazwischen?] (http://example.com). Ja ;)
 
 Gehen Smilies? :) ;) :/ :(
+
+Link zur https://github.com/stefahn/hello-world/blob/master/README.md#sub-heading
+
+Geht das auch so #sub-heading
+
+[Oder so](#sub-heading)
