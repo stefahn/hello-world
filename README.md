@@ -73,3 +73,9 @@ Link zur https://github.com/stefahn/hello-world/blob/master/README.md#sub-headin
 Geht das auch so #sub-heading
 
 [Oder so](#sub-heading)
+
+[Mit Leerzeichen und #](Another deeper heading)
+
+[Mit Leerzeichen](#Another deeper heading)
+
+[Mit Strichen](#Another-deeper-heading)
